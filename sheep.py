@@ -1,4 +1,3 @@
-#-----Wavatig example python script-----#
 import random
 import time
 
